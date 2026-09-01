@@ -21,6 +21,7 @@ pipeline {
                 echo "deployimg"
             }
         }
+    }
 
         post {
           always {
